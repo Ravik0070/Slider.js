@@ -1,0 +1,1 @@
+Its a simple image slider made with js, html & css.
